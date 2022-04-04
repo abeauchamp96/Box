@@ -4,6 +4,15 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Alexandre Beauchamp</Authors>
+    <Description>A box which contains scripts, nugets, snippets and many things to help the developer</Description>
+    <Copyright>2022</Copyright>
+    <PackageProjectUrl>https://github.com/abeauchamp96/Box</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/abeauchamp96/Box</RepositoryUrl>
+    <PackageTags>Tools;Utility</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
