@@ -13,7 +13,6 @@
     <PackageProjectUrl>https://github.com/abeauchamp96/Box</PackageProjectUrl>
     <RepositoryUrl>https://github.com/abeauchamp96/Box</RepositoryUrl>
     <PackageTags>Tools;Utility</PackageTags>
-    <EnforceCodeStyleInBuild>True</EnforceCodeStyleInBuild>
   </PropertyGroup>
 
   <ItemGroup>
